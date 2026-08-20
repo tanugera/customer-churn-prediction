@@ -24,27 +24,17 @@ Can machine learning accurately identify customers who are likely to churn, and 
 This project uses the Customer Churn Dataset obtained from Kaggle.
 The dataset contains approximately 64,000 customer records and includes variables such as:
 
-Age
-
-Gender
-
-Tenure
-
-Usage Frequency
-
-Support Calls
-
-Payment Delay
-
-Subscription Type
-
-Contract Length
-
-Total Spend
-
-Last Interaction
-
-Churn (target variable)
+- Age
+- Gender
+- Tenure
+- Usage Frequency
+- Support Calls
+- Payment Delay
+- Subscription Type
+- Contract Length
+- Total Spend
+- Last Interaction
+- Churn (target variable)
 
 ## Methodology
 
